@@ -7,7 +7,7 @@
 I build secure AWS environments, automate infrastructure with code, and turn practical ideas into working systems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-priyeshraj-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyeshraj)
-[![GitHub](https://img.shields.io/badge/GitHub-priyeshr7-181717?style=flat&logo=github&logoColor=white)](https://github.com/priyeshr7)
+[![Website](https://img.shields.io/badge/GitHub-priyeshr7-181717?style=flat&logo=github&logoColor=white)]([https://priyeshr7.github.io/priyeshraj/])
 
 </div>
 
