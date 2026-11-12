@@ -29,14 +29,14 @@ I build secure AWS environments, automate infrastructure with code, and turn pra
 ## Experience
 
 ### Cloud Engineer Intern — Mactores
-**August 2026**
+**Aug-Sept 2026**
 
 - Evaluated AWS infrastructure using Well-Architected principles, with emphasis on IAM, network security, resilience, and resource optimization.
 - Researched practical uses of generative AI and automation in cloud operations, monitoring, and decision support.
 - Compared cloud services and architecture options, then documented findings for infrastructure planning.
 
 ### Salesforce Developer — SmartBridge
-**July 2025**
+**Jun-Jul 2025**
 
 - Developed custom application logic with Apex and responsive interfaces with Lightning Web Components.
 - Built workflows and automations for business processes on Salesforce.
